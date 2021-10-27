@@ -80,6 +80,7 @@ export default function Watercolour() {
 				rEnd: 0.4,
 				colors: [
 					[0, {h: 10 - t * 10, s: 80, l: 60, a: 0.5 * t}],
+					[0.1 + t * 0.4, {h: 10 + t * 20, s: 80, l: 60, a: 0.4 * t}],
 					[1, {h: 45 - t * 5, s: 90, l: 50, a: 0.05 * t * t}],
 				],
 			})

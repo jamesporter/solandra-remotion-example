@@ -61,9 +61,9 @@ export const RemotionVideo: React.FC = () => {
 				id="Watercolour"
 				component={Watercolour}
 				durationInFrames={600}
-				height={1080}
-				width={1920}
-				fps={30}
+				height={2160}
+				width={3840}
+				fps={60}
 			/>
 		</>
 	);
