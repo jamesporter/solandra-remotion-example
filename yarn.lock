@@ -4100,6 +4100,11 @@ sockjs-client@^1.5.0:
     json3 "^3.3.3"
     url-parse "^1.5.3"
 
+solandra@^0.15.1:
+  version "0.15.1"
+  resolved "https://registry.yarnpkg.com/solandra/-/solandra-0.15.1.tgz#da16a8c30ae22c5ef1531b90e0be16987cfdbfe9"
+  integrity sha512-qpJ8DCeWxH/uLogVZsdDERSX7OmnRGr6u1VGJrfXXsFe6rFAqcx00WEgwNIyDMadMOQokxev+6UVVOky6W3CDw==
+
 source-list-map@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/source-list-map/-/source-list-map-2.0.1.tgz#3993bd873bfc48479cca9ea3a547835c7c154b34"
